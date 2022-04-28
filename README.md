@@ -6,3 +6,7 @@ Able to achieve 95% test accuracy.
 
 
 To view most up to date changes please visit `https://drive.google.com/drive/folders/1CObSjeDrIakg0zj_siIhvOJpCOgh-ObY?usp=sharing`
+
+
+Dataset Link: `https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset`
+
