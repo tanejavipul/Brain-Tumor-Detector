@@ -10,7 +10,7 @@ To view most up to date changes please visit
 Folder Link
 - `https://drive.google.com/drive/folders/1CObSjeDrIakg0zj_siIhvOJpCOgh-ObY?usp=sharing`
 
-.ipynb File
+Notebook Link
 - `https://colab.research.google.com/drive/174RB6rDffu81uRR-PcxpWAZGRK4s-QLn?usp=sharing`
 
 
